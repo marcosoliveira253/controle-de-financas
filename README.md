@@ -1,5 +1,5 @@
 # controle de financas
-Sistema de controle de finanças com  desenvolvido com html, Javascript e localStorage
+Sistema de controle de finanças desenvolvido com html, Javascript e localStorage
 
 <img alt="CONTROLE DE FINANÇAS COM JAVASCRIPT.png" src="https://github.com/marcosoliveira253/controle-de-financas/blob/main/CONTROLE%20DE%20FINAN%C3%87AS%20COM%20JAVASCRIPT.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" width="500" height="300" >
 
